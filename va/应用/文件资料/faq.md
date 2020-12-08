@@ -149,3 +149,6 @@ services:
 
 Set the segment size when you create a new task, this option is available in the
 [Advanced configuration](user_guide.md#advanced-configuration) section.
+
+＃# cvat支持什么样的图像数据
+＃#Recently, I am using cvat web version, but I don't know what kind of image datacan cvat support or read? The second is to use the XML downloaded by cvat to mark whether the file path in the file is HTTP or local folder?
